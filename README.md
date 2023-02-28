@@ -1,2 +1,11 @@
-# solving-for-india-hackathon
-It's a GeeksforGeeks hackathon. Students need to use Google Cloud to build innovative projects based on a chosen theme.
+
+## SFIT 
+
+## Team Members:
+1. Aditya Ghadge
+2. Sagar Bhalsingh
+3. Ritesh Pandit
+4. Avi Birla
+
+## Submissions Starts: March 1
+## Submissions Ends: April 16
