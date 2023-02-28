@@ -1,5 +1,7 @@
 
-## SFIT 
+## St. Francis Institute of Technology (Mumbai)
+
+<hr>
 
 ## Team Members:
 1. Aditya Ghadge
@@ -10,5 +12,5 @@
 <hr>
 
 ## Timeline:
-##$ Submissions Starts: March 1
+### Submissions Starts: March 1
 ### Submissions Ends: April 16
