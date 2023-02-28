@@ -12,5 +12,5 @@
 <hr>
 
 ## Timeline:
-Submissions Starts: March 1
+Submissions Starts: March 1 <br>
 Submissions Ends: April 16
