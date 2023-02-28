@@ -7,5 +7,8 @@
 3. Ritesh Pandit
 4. Avi Birla
 
-## Submissions Starts: March 1
-## Submissions Ends: April 16
+<hr>
+
+## Timeline:
+##$ Submissions Starts: March 1
+### Submissions Ends: April 16
