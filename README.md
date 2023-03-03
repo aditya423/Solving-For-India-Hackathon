@@ -11,6 +11,15 @@
 
 <hr>
 
+## Themes:
+* Healthcare
+* FinTech
+* AgroTech
+* Fitness and Sports
+* Blockchain
+
+<hr>
+
 ## Timeline:
 <b>Submissions Starts:</b>
 <br>March 1 
