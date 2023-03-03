@@ -7,7 +7,7 @@
 1. Aditya Ghadge
 2. Sagar Bhalsingh
 3. Ritesh Pandit
-4. Avi Birla
+4. [Avi Birla](https://www.linkedin.com/in/avibirla/)
 
 <hr>
 
